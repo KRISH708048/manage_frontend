@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+    --color-mint-500: oklch(0.72 0.11 178);
+    --color-brightRed: hsl(12, 88%, 59%);
+    --color-darkBlue: hsl(228, 39%, 23%);
+    --color-darkGrayishBlue: hsl(227, 12%, 61%);
+    --color-veryDarkBlue: hsl(233, 12%, 13%);
+    --color-veryPaleRed: hsl(13, 100%, 96%);
+    --color-veryLightGray: hsl(0, 0%, 98%)
+  }
+
